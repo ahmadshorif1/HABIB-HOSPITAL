@@ -1,0 +1,6 @@
+{
+  "name": "HABIB HOSPITAL - স্মার্ট হসপিটাল ও মেডিকেল ম্যানেজমেন্ট",
+  "description": "হসপিটাল পরিচালনা, হিসাব অডিট, পুরাতন ও নতুন রোগীর রেকর্ড, অনলাইন ও অফলাইন পেমেন্ট, ডক্টর সিরিয়াল এবং এআই হেলথ অ্যাসিস্ট্যান্ট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
